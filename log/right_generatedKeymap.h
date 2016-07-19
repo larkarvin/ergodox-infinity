@@ -165,103 +165,102 @@ Guide_RM( 2 ) = { 1, 15, KEY_N, 0 };
 Guide_RM( 3 ) = { 1, 15, KEY_A, 0 };
 Guide_RM( 4 ) = { 1, 15, KEY_ENTER, 0 };
 Guide_RM( 5 ) = { 1, 15, KEY_T, 0 };
-Guide_RM( 6 ) = { 2, 4, 2, 0, 1, 0 };
-Guide_RM( 7 ) = { 1, 15, KEY_TAB, 0 };
-Guide_RM( 8 ) = { 1, 15, KEY_DOWN, 0 };
-Guide_RM( 9 ) = { 2, 4, 4, 0, 1, 0 };
-Guide_RM( 10 ) = { 1, 15, KEY_S, 0 };
-Guide_RM( 11 ) = { 1, 15, KEY_SPACE, 0 };
-Guide_RM( 12 ) = { 1, 15, KEY_LEFT, 0 };
-Guide_RM( 13 ) = { 1, 15, KEY_6, 0 };
-Guide_RM( 14 ) = { 1, 15, KEY_UP, 0 };
-Guide_RM( 15 ) = { 1, 15, KEY_DELETE, 0 };
-Guide_RM( 16 ) = { 1, 15, KEY_E, 0 };
-Guide_RM( 17 ) = { 1, 15, KEY_BACKSLASH, 0 };
-Guide_RM( 18 ) = { 1, 15, KEY_Q, 0 };
-Guide_RM( 19 ) = { 1, 15, KEY_RIGHT, 0 };
-Guide_RM( 20 ) = { 1, 15, KEY_QUOTE, 0 };
-Guide_RM( 21 ) = { 1, 15, KEY_P, 0 };
-Guide_RM( 22 ) = { 1, 15, KEY_I, 0 };
+Guide_RM( 6 ) = { 1, 15, KEY_EQUAL, 0 };
+Guide_RM( 7 ) = { 1, 15, KEY_DOWN, 0 };
+Guide_RM( 8 ) = { 2, 4, 4, 0, 1, 0 };
+Guide_RM( 9 ) = { 1, 15, KEY_S, 0 };
+Guide_RM( 10 ) = { 1, 15, KEY_SPACE, 0 };
+Guide_RM( 11 ) = { 1, 15, KEY_BACKTICK, 0 };
+Guide_RM( 12 ) = { 1, 15, KEY_6, 0 };
+Guide_RM( 13 ) = { 1, 15, KEY_UP, 0 };
+Guide_RM( 14 ) = { 1, 15, KEY_DELETE, 0 };
+Guide_RM( 15 ) = { 1, 15, KEY_E, 0 };
+Guide_RM( 16 ) = { 1, 15, KEY_LGUI, 0 };
+Guide_RM( 17 ) = { 1, 15, KEY_Q, 0 };
+Guide_RM( 18 ) = { 1, 15, KEY_RIGHT, 0 };
+Guide_RM( 19 ) = { 1, 15, KEY_QUOTE, 0 };
+Guide_RM( 20 ) = { 1, 15, KEY_P, 0 };
+Guide_RM( 21 ) = { 1, 15, KEY_I, 0 };
+Guide_RM( 22 ) = { 1, 15, KEY_TAB, 0 };
 Guide_RM( 23 ) = { 1, 15, KEY_H, 0 };
 Guide_RM( 24 ) = { 1, 15, KEY_LSHIFT, 0 };
 Guide_RM( 25 ) = { 1, 15, KEY_D, 0 };
 Guide_RM( 26 ) = { 1, 15, KEY_PAGE_UP, 0 };
 Guide_RM( 27 ) = { 1, 15, KEY_C, 0 };
-Guide_RM( 28 ) = { 1, 15, KEY_U, 0 };
-Guide_RM( 29 ) = { 1, 15, KEY_HOME, 0 };
-Guide_RM( 30 ) = { 1, 15, KEY_PAGE_DOWN, 0 };
-Guide_RM( 31 ) = { 1, 15, KEY_LEFT_BRACKET, 0 };
-Guide_RM( 32 ) = { 1, 15, KEY_F, 0 };
-Guide_RM( 33 ) = { 1, 15, KEY_Y, 0 };
-Guide_RM( 34 ) = { 1, 15, KEY_END, 0 };
-Guide_RM( 35 ) = { 2, 4, 1, 0, 1, 0 };
-Guide_RM( 36 ) = { 1, 15, KEY_W, 0 };
-Guide_RM( 37 ) = { 1, 15, KEY_PERIOD, 0 };
-Guide_RM( 38 ) = { 1, 15, KEY_SEMICOLON, 0 };
-Guide_RM( 39 ) = { 1, 15, KEY_G, 0 };
-Guide_RM( 40 ) = { 1, 15, KEY_K, 0 };
-Guide_RM( 41 ) = { 1, 15, KEY_X, 0 };
-Guide_RM( 42 ) = { 1, 15, KEY_SLASH, 0 };
-Guide_RM( 43 ) = { 1, 15, KEY_B, 0 };
-Guide_RM( 44 ) = { 1, 15, KEY_J, 0 };
-Guide_RM( 45 ) = { 1, 15, KEY_Z, 0 };
-Guide_RM( 46 ) = { 1, 15, KEY_2, 0 };
-Guide_RM( 47 ) = { 1, 15, KEY_RSHIFT, 0 };
-Guide_RM( 48 ) = { 1, 15, KEY_0, 0 };
-Guide_RM( 49 ) = { 1, 15, KEY_V, 0 };
-Guide_RM( 50 ) = { 1, 15, KEY_5, 0 };
-Guide_RM( 51 ) = { 1, 15, KEY_L, 0 };
-Guide_RM( 52 ) = { 1, 15, KEY_1, 0 };
-Guide_RM( 53 ) = { 1, 15, KEY_BACKSPACE, 0 };
-Guide_RM( 54 ) = { 1, 15, KEY_M, 0 };
-Guide_RM( 55 ) = { 1, 15, KEY_LALT, 0 };
-Guide_RM( 56 ) = { 1, 15, KEY_EQUAL, 0 };
-Guide_RM( 57 ) = { 1, 15, KEY_RCTRL, 0 };
+Guide_RM( 28 ) = { 1, 15, KEY_LEFT, 0 };
+Guide_RM( 29 ) = { 1, 15, KEY_U, 0 };
+Guide_RM( 30 ) = { 1, 15, KEY_HOME, 0 };
+Guide_RM( 31 ) = { 1, 15, KEY_PAGE_DOWN, 0 };
+Guide_RM( 32 ) = { 1, 15, KEY_LEFT_BRACKET, 0 };
+Guide_RM( 33 ) = { 1, 15, KEY_F, 0 };
+Guide_RM( 34 ) = { 1, 15, KEY_Y, 0 };
+Guide_RM( 35 ) = { 1, 15, KEY_END, 0 };
+Guide_RM( 36 ) = { 2, 4, 1, 0, 1, 0 };
+Guide_RM( 37 ) = { 1, 15, KEY_W, 0 };
+Guide_RM( 38 ) = { 1, 15, KEY_PERIOD, 0 };
+Guide_RM( 39 ) = { 1, 15, KEY_SEMICOLON, 0 };
+Guide_RM( 40 ) = { 1, 15, KEY_G, 0 };
+Guide_RM( 41 ) = { 1, 15, KEY_K, 0 };
+Guide_RM( 42 ) = { 1, 15, KEY_X, 0 };
+Guide_RM( 43 ) = { 1, 15, KEY_SLASH, 0 };
+Guide_RM( 44 ) = { 1, 15, KEY_B, 0 };
+Guide_RM( 45 ) = { 1, 15, KEY_J, 0 };
+Guide_RM( 46 ) = { 1, 15, KEY_Z, 0 };
+Guide_RM( 47 ) = { 1, 15, KEY_2, 0 };
+Guide_RM( 48 ) = { 1, 15, KEY_RSHIFT, 0 };
+Guide_RM( 49 ) = { 1, 15, KEY_0, 0 };
+Guide_RM( 50 ) = { 1, 15, KEY_V, 0 };
+Guide_RM( 51 ) = { 1, 15, KEY_5, 0 };
+Guide_RM( 52 ) = { 1, 15, KEY_L, 0 };
+Guide_RM( 53 ) = { 1, 15, KEY_1, 0 };
+Guide_RM( 54 ) = { 1, 15, KEY_BACKSPACE, 0 };
+Guide_RM( 55 ) = { 1, 15, KEY_M, 0 };
+Guide_RM( 56 ) = { 1, 15, KEY_LALT, 0 };
+Guide_RM( 57 ) = { 2, 4, 2, 0, 1, 0 };
 Guide_RM( 58 ) = { 1, 15, KEY_R, 0 };
 Guide_RM( 59 ) = { 1, 15, KEY_COMMA, 0 };
 Guide_RM( 60 ) = { 1, 15, KEY_7, 0 };
 Guide_RM( 61 ) = { 1, 15, KEY_LCTRL, 0 };
 Guide_RM( 62 ) = { 1, 15, KEY_RIGHT_BRACKET, 0 };
 Guide_RM( 63 ) = { 1, 15, KEY_4, 0 };
-Guide_RM( 64 ) = { 1, 15, KEY_BACKTICK, 0 };
-Guide_RM( 65 ) = { 1, 15, KEY_8, 0 };
-Guide_RM( 66 ) = { 2, 6, 1, 0, 1, 0 };
-Guide_RM( 67 ) = { 1, 15, KEY_RGUI, 0 };
+Guide_RM( 64 ) = { 1, 15, KEY_8, 0 };
+Guide_RM( 65 ) = { 2, 6, 1, 0, 1, 0 };
+Guide_RM( 66 ) = { 1, 15, KEY_RGUI, 0 };
+Guide_RM( 67 ) = { 1, 15, KEY_MINUS, 0 };
 Guide_RM( 68 ) = { 1, 15, KEY_3, 0 };
 Guide_RM( 69 ) = { 1, 15, KEY_O, 0 };
-Guide_RM( 70 ) = { 1, 15, KEY_LGUI, 0 };
-Guide_RM( 71 ) = { 1, 15, KEY_F9, 0 };
-Guide_RM( 72 ) = { 1, 15, KEY_F11, 0 };
-Guide_RM( 73 ) = { 1, 15, KEY_F12, 0 };
-Guide_RM( 74 ) = { 1, 15, KEY_F6, 0 };
-Guide_RM( 75 ) = { 1, 15, KEY_MINUS, 0 };
-Guide_RM( 76 ) = { 1, 15, KEY_F2, 0 };
-Guide_RM( 77 ) = { 1, 15, KEY_F10, 0 };
-Guide_RM( 78 ) = { 1, 15, KEY_F5, 0 };
-Guide_RM( 79 ) = { 1, 15, KEY_F1, 0 };
-Guide_RM( 80 ) = { 1, 15, KEY_F7, 0 };
-Guide_RM( 81 ) = { 1, 15, KEY_F4, 0 };
-Guide_RM( 82 ) = { 1, 15, KEY_F8, 0 };
-Guide_RM( 83 ) = { 1, 15, KEY_F3, 0 };
-Guide_RM( 84 ) = { 1, 15, KEYPAD_ASTERISK, 0 };
-Guide_RM( 85 ) = { 1, 15, KEYPAD_4, 0 };
-Guide_RM( 86 ) = { 1, 15, KEYPAD_PERIOD, 0 };
-Guide_RM( 87 ) = { 1, 15, KEYPAD_5, 0 };
-Guide_RM( 88 ) = { 1, 15, KEYPAD_ENTER, 0 };
-Guide_RM( 89 ) = { 1, 15, KEYPAD_6, 0 };
-Guide_RM( 90 ) = { 1, 15, KEYPAD_0, 0 };
-Guide_RM( 91 ) = { 1, 15, KEYPAD_8, 0 };
-Guide_RM( 92 ) = { 1, 15, KEYPAD_9, 0 };
-Guide_RM( 93 ) = { 1, 15, KEYPAD_3, 0 };
-Guide_RM( 94 ) = { 1, 15, KEYPAD_PLUS, 0 };
-Guide_RM( 95 ) = { 1, 15, KEYPAD_MINUS, 0 };
-Guide_RM( 96 ) = { 1, 15, KEYPAD_7, 0 };
-Guide_RM( 97 ) = { 1, 12, 0 };
-Guide_RM( 98 ) = { 1, 15, KEYPAD_1, 0 };
-Guide_RM( 99 ) = { 1, 9, 0 };
-Guide_RM( 100 ) = { 1, 15, KEYPAD_2, 0 };
-Guide_RM( 101 ) = { 1, 15, KEY_NUM_LOCK, 0 };
-Guide_RM( 102 ) = { 1, 15, KEYPAD_SLASH, 0 };
+Guide_RM( 70 ) = { 1, 15, KEY_F9, 0 };
+Guide_RM( 71 ) = { 1, 15, KEY_F11, 0 };
+Guide_RM( 72 ) = { 1, 15, KEY_F12, 0 };
+Guide_RM( 73 ) = { 1, 15, KEY_F6, 0 };
+Guide_RM( 74 ) = { 1, 15, KEY_F2, 0 };
+Guide_RM( 75 ) = { 1, 15, KEY_F10, 0 };
+Guide_RM( 76 ) = { 1, 15, KEY_F5, 0 };
+Guide_RM( 77 ) = { 1, 15, KEY_F1, 0 };
+Guide_RM( 78 ) = { 1, 15, KEY_F7, 0 };
+Guide_RM( 79 ) = { 1, 15, KEY_F4, 0 };
+Guide_RM( 80 ) = { 1, 15, KEY_F8, 0 };
+Guide_RM( 81 ) = { 1, 15, KEY_F3, 0 };
+Guide_RM( 82 ) = { 1, 15, KEYPAD_ASTERISK, 0 };
+Guide_RM( 83 ) = { 1, 15, KEYPAD_4, 0 };
+Guide_RM( 84 ) = { 1, 15, KEYPAD_PERIOD, 0 };
+Guide_RM( 85 ) = { 1, 15, KEYPAD_5, 0 };
+Guide_RM( 86 ) = { 1, 15, KEYPAD_ENTER, 0 };
+Guide_RM( 87 ) = { 1, 15, KEYPAD_6, 0 };
+Guide_RM( 88 ) = { 1, 15, KEYPAD_0, 0 };
+Guide_RM( 89 ) = { 1, 15, KEYPAD_8, 0 };
+Guide_RM( 90 ) = { 1, 15, KEYPAD_9, 0 };
+Guide_RM( 91 ) = { 1, 15, KEYPAD_3, 0 };
+Guide_RM( 92 ) = { 1, 15, KEYPAD_PLUS, 0 };
+Guide_RM( 93 ) = { 1, 15, KEYPAD_MINUS, 0 };
+Guide_RM( 94 ) = { 1, 15, KEYPAD_7, 0 };
+Guide_RM( 95 ) = { 1, 12, 0 };
+Guide_RM( 96 ) = { 1, 15, KEYPAD_1, 0 };
+Guide_RM( 97 ) = { 1, 9, 0 };
+Guide_RM( 98 ) = { 1, 15, KEYPAD_2, 0 };
+Guide_RM( 99 ) = { 1, 15, KEY_NUM_LOCK, 0 };
+Guide_RM( 100 ) = { 1, 15, KEYPAD_SLASH, 0 };
+Guide_RM( 101 ) = { 1, 15, KEY_BACKSLASH, 0 };
 
 
 // -- Result Macro List
@@ -370,7 +369,6 @@ const ResultMacro ResultMacroList[] = {
 	Define_RM( 99 ),
 	Define_RM( 100 ),
 	Define_RM( 101 ),
-	Define_RM( 102 ),
 };
 
 
@@ -531,60 +529,60 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 4, 4 ),
 	Define_TM( 5, 5 ),
 	Define_TM( 6, 6 ),
-	Define_TM( 7, 7 ),
-	Define_TM( 8, 8 ),
-	Define_TM( 9, 9 ),
-	Define_TM( 10, 10 ),
-	Define_TM( 11, 11 ),
-	Define_TM( 12, 12 ),
-	Define_TM( 13, 13 ),
-	Define_TM( 14, 14 ),
-	Define_TM( 15, 15 ),
-	Define_TM( 16, 16 ),
-	Define_TM( 17, 17 ),
-	Define_TM( 18, 18 ),
-	Define_TM( 19, 19 ),
-	Define_TM( 20, 20 ),
+	Define_TM( 7, 6 ),
+	Define_TM( 8, 7 ),
+	Define_TM( 9, 8 ),
+	Define_TM( 10, 9 ),
+	Define_TM( 11, 10 ),
+	Define_TM( 12, 11 ),
+	Define_TM( 13, 12 ),
+	Define_TM( 14, 13 ),
+	Define_TM( 15, 14 ),
+	Define_TM( 16, 15 ),
+	Define_TM( 17, 16 ),
+	Define_TM( 18, 17 ),
+	Define_TM( 19, 18 ),
+	Define_TM( 20, 19 ),
 	Define_TM( 21, 4 ),
-	Define_TM( 22, 21 ),
-	Define_TM( 23, 22 ),
-	Define_TM( 24, 17 ),
+	Define_TM( 22, 20 ),
+	Define_TM( 23, 21 ),
+	Define_TM( 24, 22 ),
 	Define_TM( 25, 23 ),
 	Define_TM( 26, 4 ),
 	Define_TM( 27, 24 ),
 	Define_TM( 28, 25 ),
 	Define_TM( 29, 26 ),
 	Define_TM( 30, 27 ),
-	Define_TM( 31, 12 ),
-	Define_TM( 32, 28 ),
-	Define_TM( 33, 29 ),
-	Define_TM( 34, 30 ),
-	Define_TM( 35, 31 ),
-	Define_TM( 36, 32 ),
-	Define_TM( 37, 33 ),
-	Define_TM( 38, 34 ),
-	Define_TM( 39, 35 ),
-	Define_TM( 40, 36 ),
-	Define_TM( 41, 37 ),
-	Define_TM( 42, 38 ),
-	Define_TM( 43, 39 ),
-	Define_TM( 44, 40 ),
-	Define_TM( 45, 41 ),
-	Define_TM( 46, 42 ),
-	Define_TM( 47, 43 ),
-	Define_TM( 48, 44 ),
-	Define_TM( 49, 45 ),
-	Define_TM( 50, 46 ),
-	Define_TM( 51, 47 ),
-	Define_TM( 52, 48 ),
-	Define_TM( 53, 49 ),
-	Define_TM( 54, 50 ),
-	Define_TM( 55, 51 ),
-	Define_TM( 56, 52 ),
-	Define_TM( 57, 53 ),
-	Define_TM( 58, 54 ),
-	Define_TM( 59, 55 ),
-	Define_TM( 60, 56 ),
+	Define_TM( 31, 28 ),
+	Define_TM( 32, 29 ),
+	Define_TM( 33, 30 ),
+	Define_TM( 34, 31 ),
+	Define_TM( 35, 32 ),
+	Define_TM( 36, 33 ),
+	Define_TM( 37, 34 ),
+	Define_TM( 38, 35 ),
+	Define_TM( 39, 36 ),
+	Define_TM( 40, 37 ),
+	Define_TM( 41, 38 ),
+	Define_TM( 42, 39 ),
+	Define_TM( 43, 40 ),
+	Define_TM( 44, 41 ),
+	Define_TM( 45, 42 ),
+	Define_TM( 46, 43 ),
+	Define_TM( 47, 44 ),
+	Define_TM( 48, 45 ),
+	Define_TM( 49, 46 ),
+	Define_TM( 50, 47 ),
+	Define_TM( 51, 48 ),
+	Define_TM( 52, 49 ),
+	Define_TM( 53, 50 ),
+	Define_TM( 54, 51 ),
+	Define_TM( 55, 52 ),
+	Define_TM( 56, 53 ),
+	Define_TM( 57, 54 ),
+	Define_TM( 58, 55 ),
+	Define_TM( 59, 56 ),
+	Define_TM( 60, 1 ),
 	Define_TM( 61, 57 ),
 	Define_TM( 62, 58 ),
 	Define_TM( 63, 59 ),
@@ -592,73 +590,73 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 65, 61 ),
 	Define_TM( 66, 62 ),
 	Define_TM( 67, 63 ),
-	Define_TM( 68, 64 ),
-	Define_TM( 69, 65 ),
-	Define_TM( 70, 66 ),
-	Define_TM( 71, 67 ),
-	Define_TM( 72, 19 ),
+	Define_TM( 68, 11 ),
+	Define_TM( 69, 64 ),
+	Define_TM( 70, 65 ),
+	Define_TM( 71, 66 ),
+	Define_TM( 72, 67 ),
 	Define_TM( 73, 68 ),
 	Define_TM( 74, 69 ),
-	Define_TM( 75, 70 ),
-	Define_TM( 76, 71 ),
-	Define_TM( 77, 72 ),
-	Define_TM( 78, 12 ),
-	Define_TM( 79, 73 ),
-	Define_TM( 80, 74 ),
-	Define_TM( 81, 8 ),
-	Define_TM( 82, 19 ),
-	Define_TM( 83, 75 ),
-	Define_TM( 84, 14 ),
-	Define_TM( 85, 76 ),
-	Define_TM( 86, 77 ),
-	Define_TM( 87, 78 ),
-	Define_TM( 88, 79 ),
-	Define_TM( 89, 80 ),
-	Define_TM( 90, 81 ),
-	Define_TM( 91, 82 ),
-	Define_TM( 92, 83 ),
-	Define_TM( 93, 84 ),
-	Define_TM( 94, 85 ),
-	Define_TM( 95, 86 ),
-	Define_TM( 96, 87 ),
-	Define_TM( 97, 88 ),
-	Define_TM( 98, 89 ),
-	Define_TM( 99, 90 ),
-	Define_TM( 100, 91 ),
-	Define_TM( 101, 92 ),
-	Define_TM( 102, 93 ),
-	Define_TM( 103, 94 ),
-	Define_TM( 104, 88 ),
-	Define_TM( 105, 95 ),
-	Define_TM( 106, 96 ),
-	Define_TM( 107, 97 ),
-	Define_TM( 108, 98 ),
-	Define_TM( 109, 97 ),
-	Define_TM( 110, 99 ),
-	Define_TM( 111, 100 ),
-	Define_TM( 112, 101 ),
-	Define_TM( 113, 99 ),
-	Define_TM( 114, 102 ),
-	Define_TM( 115, 94 ),
-	Define_TM( 116, 44 ),
-	Define_TM( 117, 32 ),
+	Define_TM( 75, 16 ),
+	Define_TM( 76, 70 ),
+	Define_TM( 77, 71 ),
+	Define_TM( 78, 28 ),
+	Define_TM( 79, 72 ),
+	Define_TM( 80, 73 ),
+	Define_TM( 81, 7 ),
+	Define_TM( 82, 18 ),
+	Define_TM( 83, 67 ),
+	Define_TM( 84, 13 ),
+	Define_TM( 85, 74 ),
+	Define_TM( 86, 75 ),
+	Define_TM( 87, 76 ),
+	Define_TM( 88, 77 ),
+	Define_TM( 89, 78 ),
+	Define_TM( 90, 79 ),
+	Define_TM( 91, 80 ),
+	Define_TM( 92, 81 ),
+	Define_TM( 93, 82 ),
+	Define_TM( 94, 83 ),
+	Define_TM( 95, 84 ),
+	Define_TM( 96, 85 ),
+	Define_TM( 97, 86 ),
+	Define_TM( 98, 87 ),
+	Define_TM( 99, 88 ),
+	Define_TM( 100, 89 ),
+	Define_TM( 101, 90 ),
+	Define_TM( 102, 91 ),
+	Define_TM( 103, 92 ),
+	Define_TM( 104, 86 ),
+	Define_TM( 105, 93 ),
+	Define_TM( 106, 94 ),
+	Define_TM( 107, 95 ),
+	Define_TM( 108, 96 ),
+	Define_TM( 109, 95 ),
+	Define_TM( 110, 97 ),
+	Define_TM( 111, 98 ),
+	Define_TM( 112, 99 ),
+	Define_TM( 113, 97 ),
+	Define_TM( 114, 100 ),
+	Define_TM( 115, 92 ),
+	Define_TM( 116, 45 ),
+	Define_TM( 117, 33 ),
 	Define_TM( 118, 25 ),
-	Define_TM( 119, 40 ),
-	Define_TM( 120, 17 ),
+	Define_TM( 119, 41 ),
+	Define_TM( 120, 101 ),
 	Define_TM( 121, 58 ),
-	Define_TM( 122, 51 ),
-	Define_TM( 123, 39 ),
-	Define_TM( 124, 22 ),
-	Define_TM( 125, 16 ),
+	Define_TM( 122, 52 ),
+	Define_TM( 123, 40 ),
+	Define_TM( 124, 21 ),
+	Define_TM( 125, 15 ),
 	Define_TM( 126, 69 ),
-	Define_TM( 127, 21 ),
+	Define_TM( 127, 20 ),
 	Define_TM( 128, 5 ),
 	Define_TM( 129, 2 ),
-	Define_TM( 130, 33 ),
-	Define_TM( 131, 28 ),
-	Define_TM( 132, 10 ),
-	Define_TM( 133, 17 ),
-	Define_TM( 134, 38 ),
+	Define_TM( 130, 34 ),
+	Define_TM( 131, 29 ),
+	Define_TM( 132, 9 ),
+	Define_TM( 133, 101 ),
+	Define_TM( 134, 39 ),
 };
 
 
