@@ -271,6 +271,10 @@
                     "key": "D",
                     "label": "D"
                 },
+                "1": {
+                    "key": "#:'%'",
+                    "label": "%"
+                },
                 "4": {
                     "key": "G",
                     "label": "G"
@@ -287,6 +291,10 @@
                 "0": {
                     "key": "T",
                     "label": "T"
+                },
+                "1": {
+                    "key": "#:'$'",
+                    "label": "$"
                 },
                 "4": {
                     "key": "F",
@@ -305,6 +313,10 @@
                     "key": "S",
                     "label": "S"
                 },
+                "1": {
+                    "key": "#:'#'",
+                    "label": "#"
+                },
                 "4": {
                     "key": "D",
                     "label": "D"
@@ -321,6 +333,10 @@
                 "0": {
                     "key": "R",
                     "label": "R"
+                },
+                "1": {
+                    "key": "#:'@'",
+                    "label": "@"
                 },
                 "4": {
                     "key": "S",
@@ -339,6 +355,10 @@
                     "key": "A",
                     "label": "A"
                 },
+                "1": {
+                    "key": "#:'!'",
+                    "label": "!"
+                },
                 "4": {
                     "key": "A",
                     "label": "A"
@@ -353,8 +373,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "LCTRL",
+                    "label": "LCTRL"
+                },
+                "1": {
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -546,8 +570,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 },
                 "4": {
                     "key": "ENTER",
@@ -615,8 +639,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -930,8 +954,8 @@
                     "label": "H"
                 },
                 "1": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "#:'^'",
+                    "label": "^"
                 },
                 "4": {
                     "key": "H",
@@ -951,8 +975,8 @@
                     "label": "N"
                 },
                 "1": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "#:'&'",
+                    "label": "&"
                 },
                 "2": {
                     "key": "P4",
@@ -976,8 +1000,8 @@
                     "label": "E"
                 },
                 "1": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "#:'*'",
+                    "label": "*"
                 },
                 "2": {
                     "key": "P5",
@@ -1001,8 +1025,8 @@
                     "label": "I"
                 },
                 "1": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "#:'_'",
+                    "label": "_"
                 },
                 "2": {
                     "key": "P6",
@@ -1024,6 +1048,10 @@
                 "0": {
                     "key": "O",
                     "label": "O"
+                },
+                "1": {
+                    "key": "#:'+'",
+                    "label": "+"
                 },
                 "2": {
                     "key": "P+",
